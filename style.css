@@ -1,0 +1,106 @@
+body {
+     font-family: sans-serif;
+}
+nav {border-radius: 10px;
+     background-color: yellow;
+     display: flex;
+     justify-content: space-between;
+     position: fixed;
+
+}
+nav a {padding:10px;
+      text-decoration: none;
+    
+}
+nav a:hover {
+     background-color: rgb(255, 244, 170);
+     border-radius: 4px;
+     border: 1px solid black;
+     transition: 1s;
+     color: black;
+ 
+}
+h1{
+     text-align: center;
+
+}
+h2{   
+     text-align: center;
+     margin-top: 100px;
+
+
+}
+.bread {
+     float: left;
+     border-radius: 20px;
+     margin: 20px;
+     transition: ;
+
+}
+.bread:hover{
+     height:250px;
+     width:250px;   
+     transition: 3s;   
+}
+.margarita {
+     text-align: center;       
+
+}
+.margita {
+     float: left;
+
+}
+.margita:hover{
+
+     height:300px;
+     width: 300px;
+     transition: 3s;
+}
+.pipironi {
+     text-align: center;
+
+}
+.pipi {margin-top: 100px;
+     float: left;
+  
+
+}
+.pipi:hover{
+
+     height: 350px;
+     width: 450px;
+     transition: 3s;
+}
+.quattro formaggi {
+      text-align: center;
+}
+
+.quattro {
+   
+     text-align: center}
+.pizza{float:left;}
+
+.pipii:hover{
+
+     height: 350px;
+     width: 350px;
+     transition: 3s;
+}
+
+
+.h1{font-size: 20px;}
+
+.video{
+     margin-left: 100px;
+   
+     
+}
+
+footer p{
+
+   text-shadow: 3px 2px 3px yellow;
+
+}
+footer li{
+     text-shadow: 3px 2px 3px orange;
+}
